@@ -1,0 +1,37 @@
+Backlog
+__________________________________
+| 1. Update UI for main page     |
+| 2. Add darkmode feature        |
+| 3. Update user manual          |
+| 4. Fix bug ticket#214946       |
+__________________________________
+
+Doing
+__________________________________
+| 1. Fix bug ticket#126985       |
+| 2. Add form for soliciting cu- |
+| stomer support                 |
+| 3. Fix bug ticket#265812       |
+__________________________________
+
+Review
+__________________________________
+| 1. Fix bug ticket#214762       |
+| 2. Updating color scheme for - |
+| login page                     |
+| 3. Fix infinite loop in main - |
+| page                           |
+__________________________________
+
+Done
+__________________________________
+| 1. Fix bug ticket#214762       |
+| 2. Revert last update          |
+| 3. Update UI to include cance- |
+| l button                       |
+| 4. Fix bug ticket#159487       |
+| 5. Updated modify button       |
+| 6. Updated DB to include birt- |
+| hdates                         |
+| 7. Fix bug ticket#123567       |
+__________________________________

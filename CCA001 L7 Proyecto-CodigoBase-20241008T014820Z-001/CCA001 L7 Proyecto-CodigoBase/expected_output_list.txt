@@ -1,0 +1,89 @@
+Initial todo list
+__________________________________
+| 1. Clean house                 |
+| 2. Take pet to vet             |
+| 3. Cook lunch                  |
+| 4. Call mom                    |
+__________________________________
+Adding task 'Call Dad' without position
+Adding task 'Call son' at position 2
+Adding task 'Dye hair' at position 1
+Adding task 'Pick up outfit' at position 8
+Adding task 'Cook dinner' at position 0, should get an error
+0 is an invalid position for to do list of size 8
+Adding task 'Cook dinner' at position 15, should get an error
+15 is an invalid position for to do list of size 8
+__________________________________
+| 1. Dye hair                    |
+| 2. Clean house                 |
+| 3. Call son                    |
+| 4. Take pet to vet             |
+| 5. Cook lunch                  |
+| 6. Call mom                    |
+| 7. Call dad                    |
+| 8. Pick up outfit              |
+__________________________________
+Removing task at position 1 ('Dye hair')
+Removing task at position 4 ('Cook lunch')
+Removing task at position 2 ('Call son')
+Removing task at position 0, should get an error
+0 is an invalid position for to do list of size 5
+Removing task at position 18, should get an error
+18 is an invalid position for to do list of size 5
+__________________________________
+| 1. Clean house                 |
+| 2. Take pet to vet             |
+| 3. Call mom                    |
+| 4. Call dad                    |
+| 5. Pick up outfit              |
+__________________________________
+Moving task at position 1 ('Clean house') to position 3
+Moving task at position 5 ('Pickup outfit') to position 1
+Moving task at position 0 to 2, should throw an error
+0 is an invalid position 1 for to do list of size 5
+Moving task at position 17 to 2, should throw an error
+17 is an invalid position 1 for to do list of size 5
+Moving task at position 2 to 0, should throw an error
+0 is an invalid position 2 for to do list of size 5
+Moving task at position 1 to 13, should throw an error
+13 is an invalid position 2 for to do list of size 5
+__________________________________
+| 1. Pick up outfit              |
+| 2. Take pet to vet             |
+| 3. Call mom                    |
+| 4. Clean house                 |
+| 5. Call dad                    |
+__________________________________
+Show new list with new tasks which are longer.
+__________________________________
+| 1. Mow the lawn                |
+| 2. Pick up dog from puppy day- |
+| care                           |
+| 3. Pay parking ticket          |
+| 4. Go buy paint at HomeDepot - |
+| using the giftcard mother in - |
+| law gave me for christmas.     |
+__________________________________
+Move task 2 ('Take pet to vet') to second list, no position given
+Move task 3 ('Clean house') to second list at position 2
+Show both todo lists
+__________________________________
+| 1. Pick up outfit              |
+| 2. Call mom                    |
+| 3. Call dad                    |
+__________________________________
+__________________________________
+| 1. Mow the lawn                |
+| 2. Clean house                 |
+| 3. Pick up dog from puppy day- |
+| care                           |
+| 4. Pay parking ticket          |
+| 5. Go buy paint at HomeDepot - |
+| using the giftcard mother in - |
+| law gave me for christmas.     |
+| 6. Take pet to vet             |
+__________________________________
+Getting task at position 3 from first list
+Call dad
+Getting task at position 4 from second list
+Pay parking ticket
